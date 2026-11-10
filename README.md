@@ -1,0 +1,1 @@
+# Twinkle Toes — Fire & Smoke Detector Bot`n`nA static presentation site for the Twinkle Toes robot. Publish this repository with GitHub Pages from the `main` branch, root folder.`n`nThe prototype photo is provided by the project owner. The site describes project architecture and programmed behavior, not certified fire safety performance.
